@@ -5,12 +5,12 @@ theme: just-the-docs
 logo: "/assets/images/opendevsecops-transparent.png"
 favicon_ico: "/assets/images/opendevsecops-favicon.ico"
 
-url: https://open-devsecops.github.io
+url: https://open-dataops.github.io
 search_enabled: false
 
 aux_links:
-  Github: https://github.com/open-devsecops
-  Contribute: https://github.com/open-devsecops/open-devsecops.github.io
+  Github: https://github.com/open-dataops
+  Contribute: https://github.com/open-dataops/open-dataops.github.io
 
 callouts:
   important:
